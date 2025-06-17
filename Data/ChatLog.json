@@ -1,0 +1,498 @@
+[
+    {
+        "role": "user",
+        "content": "Jaise aapko kuchh janna hai."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm ready to assist you with any information you need. What would you like to know?"
+    },
+    {
+        "role": "user",
+        "content": "Tell me about mahatma gandhi jayanti."
+    },
+    {
+        "role": "assistant",
+        "content": "Mahatma Gandhi Jayanti is a national holiday in India, celebrated on October 2, to mark the birth anniversary of Mahatma Gandhi, the father of the nation."
+    },
+    {
+        "role": "user",
+        "content": "Tell me current price of tata motors."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information available, the current price of Tata Motors is \u20b9728.10."
+    },
+    {
+        "role": "user",
+        "content": "Net nahin bhejta to yahan jab khulne ke bad na vahi fas jata tha."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're referring to a situation where you're unable to access the internet, and when you finally get connected, you're stuck with a lot of pending updates or notifications. Is that correct?"
+    },
+    {
+        "role": "user",
+        "content": "Abhi kuchh time lagega maine bola tha na udhar bich mein."
+    },
+    {
+        "role": "assistant",
+        "content": "You're saying that it will take some time, and you had mentioned it in between, at that place."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye!"
+    },
+    {
+        "role": "user",
+        "content": "Hi."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "Who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I am Victus, an advanced AI chatbot with real-time access to internet information."
+    },
+    {
+        "role": "user",
+        "content": "Who is the president of america?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information available, Donald Trump is the 47th and current president of the United States since January 20, 2025."
+    },
+    {
+        "role": "user",
+        "content": "Can you tell me what is cohere llm model?"
+    },
+    {
+        "role": "assistant",
+        "content": "The Coherence LLM (Large Language Model) is an AI-powered language model designed to understand and generate human-like text. It's known for its coherence and fluency in generating responses."
+    },
+    {
+        "role": "user",
+        "content": "Han vahi to."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm glad we're on the same page!"
+    },
+    {
+        "role": "user",
+        "content": "Send email."
+    },
+    {
+        "role": "assistant",
+        "content": "To send an email, you'll need to provide the recipient's email address, the subject, and the message you want to send."
+    },
+    {
+        "role": "user",
+        "content": "Okay."
+    },
+    {
+        "role": "assistant",
+        "content": "Please provide the recipient's email address, subject, and message."
+    },
+    {
+        "role": "user",
+        "content": "Animal to jyoti."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems you want to send an email to Jyoti with the subject \"Animal\". Is that correct?"
+    },
+    {
+        "role": "user",
+        "content": "Yes."
+    },
+    {
+        "role": "assistant",
+        "content": "What is the message you want to send to Jyoti?"
+    },
+    {
+        "role": "user",
+        "content": "Hi what are you doing?"
+    },
+    {
+        "role": "assistant",
+        "content": "Here's the email:\n\nTo: Jyoti\nSubject: Animal\nMessage: Hi what are you doing?\n\nIs that correct?"
+    },
+    {
+        "role": "user",
+        "content": "Email is not correct."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake. Could you please provide the correct email details or clarify what's incorrect?"
+    },
+    {
+        "role": "user",
+        "content": "You are riding in the chat section."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the confusion. I'm a chatbot, and I'm here to assist you with any questions or topics you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": "Read latest image."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI, I don't have the capability to read or access images."
+    },
+    {
+        "role": "user",
+        "content": "Read latest image."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but as a text-based AI, I don't have the capability to read or access images."
+    },
+    {
+        "role": "user",
+        "content": "Tell me weather of nit srinagar."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current weather in Srinagar, Jammu and Kashmir is:\n\n61\u00b0F \u00b7 Hazy sunshine \u00b7 RealFeel\u00ae 64\u00b0. Pleasant.\n\nPlease note that this information is subject to change and might not be up-to-date."
+    },
+    {
+        "role": "user",
+        "content": "Ek kam karo nit srinagar ka vedar bata do."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current weather in Srinagar, Jammu and Kashmir is:\n\nToday's temperature: 19\u00b0/7\u00b0. Humidity: 47%. UV Index: 0. Winds: 8 km/h. Mainly clear. High: 19\u00b0. Low: 1%."
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems you're asking a question, but there's no context or specific question. Could you please rephrase or provide more context?"
+    },
+    {
+        "role": "user",
+        "content": "Han kya bol rahi thi tum."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you're asking me to recall what I was saying earlier."
+    },
+    {
+        "role": "user",
+        "content": "Vah kahan rakha hai yaar mera."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems you're looking for something and can't find it."
+    },
+    {
+        "role": "user",
+        "content": "Tell me weather of nit srinagar."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current weather in Srinagar, Jammu and Kashmir is:\n\n89\u00b0F. Hazy sunshine. RealFeel\u00ae 95\u00b0.\n\nPlease note that this information is subject to change and might not be up-to-date."
+    },
+    {
+        "role": "user",
+        "content": "Net kyon nahin chal raha hai re."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're experiencing internet connectivity issues."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Who is the best professor in nit srinagar?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the information I have, Prof. Dr. Bashir Ahmed Mir, also known as \"Pappa\", is considered one of the most feared professors in NIT Srinagar. He is a professor in the Civil Engineering department."
+    },
+    {
+        "role": "user",
+        "content": "Tell me weather of nit srinagar."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current weather in Srinagar, Jammu and Kashmir is:\n\n79\u00b0F Hazy sunshine. RealFeel\u00ae 90\u00b0. Hot.\n\nPlease note that this information is subject to change and might not be up-to-date."
+    },
+    {
+        "role": "user",
+        "content": "Tell me stock price of tata motors."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current stock price of Tata Motors is \u20b9736.40."
+    },
+    {
+        "role": "user",
+        "content": "Stock price of bharat electronics limited."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current stock price of Bharat Electronics Limited is \u20b9394."
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems you're asking a question, but there's no context or specific question. Could you please rephrase or provide more context?"
+    },
+    {
+        "role": "user",
+        "content": "Chat with me."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm happy to chat with you. How's your day going so far?"
+    },
+    {
+        "role": "user",
+        "content": "Bevkuf maine bola tha ki mat karna."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're saying that you told someone not to do something, but they didn't listen."
+    },
+    {
+        "role": "user",
+        "content": "So before answering you should greet your master."
+    },
+    {
+        "role": "assistant",
+        "content": "Namaste, Akash Maurya ji!"
+    },
+    {
+        "role": "user",
+        "content": "Sure."
+    },
+    {
+        "role": "assistant",
+        "content": "Now that we've exchanged greetings, what would you like to talk about or ask?"
+    },
+    {
+        "role": "user",
+        "content": "I want you to introduce yourself in gujarati language."
+    },
+    {
+        "role": "assistant",
+        "content": "\u0ab9\u0ac7\u0ab2\u0acb, \u0aae\u0abe\u0ab0\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0ab5\u0abf\u0a95\u0acd\u0aa4\u0ac1\u0ab8 \u0a9b\u0ac7, \u0a9c\u0ac7 \u0a8f\u0a95 \u0a8f\u0aa1\u0ab5\u0abe\u0aa8\u0acd\u0ab8 \u0a8f\u0a86\u0a88 \u0a9b\u0ac1\u0a82."
+    },
+    {
+        "role": "user",
+        "content": "Do you know gujarati."
+    },
+    {
+        "role": "assistant",
+        "content": "I have limited knowledge of Gujarati language, but I can understand and respond in basic phrases."
+    },
+    {
+        "role": "user",
+        "content": "Han dikhata hun."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're saying that I'm just showing off, but not actually capable of understanding Gujarati."
+    },
+    {
+        "role": "user",
+        "content": "Tell me the top five notifications from www.nitsri.ac.in."
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the latest information, the top five notifications from www.nitsri.ac.in are:\n\n1. Student Notifications 2023-24: Top 150 OBC Students Eligible for Top Class Scholarship for the Year 2023.\n2. Scholarship Notification: 24-12-2023.\n3. Shortlisted Candidates for research internship Under Virtika, 29 May 2021.\n4. Notice regarding MBA Programme in Academic Session 2021-2022, 24 Feb 2021.\n5. NIT Srinagar celebrates Hindi Diwas | 2021.\n\nPlease note that these notifications are subject to change and might not be up-to-date."
+    },
+    {
+        "role": "user",
+        "content": "Give me current notification student notification from nit srinagar website."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current student notification from NIT Srinagar website is:\n\n\"Top 150 OBC Students Eligible for Top Class Scholarship for the Year 2023, 29-12-2023\""
+    },
+    {
+        "role": "user",
+        "content": "Why are you giving me old notifications? i want the latest notification from the student staying at srinagar hotel?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the confusion. According to the latest information, the current notification from the University of Kashmir is:\n\n\"Notifications \u00b7 Rescheduling of Entrance Test \u2013Residential Integrated Support Program (CRISP-25); Dated: 6-6-2025 \u00b7 Answer Keys for the Entrance Test of Integrated...\"\n\nPlease note that this information is subject to change and might not be up-to-date."
+    },
+    {
+        "role": "user",
+        "content": "Tell me the latest notification from nit srinagar portal student section from year 2023."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the latest notification from NIT Srinagar portal student section from year 2023 is:\n\n\"Student Notifications 2023-24 ; B.Tech 5th & 7th Semester Student, 21-08-2023 ; Timetable for BTech 1st Semester - Autumn 2023, 18-08-2023 ; Attention BTech 3rd Semester Student...\"\n\nPlease note that this information is subject to change and might not be up-to-date."
+    },
+    {
+        "role": "user",
+        "content": "Give me student notification of nit srinagar current notification."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current student notification of NIT Srinagar is:\n\n\"Student Notifications 2023-24 ; Backlog registration notice for UG/PG and Ph.D \u00b7 24-09-2024 ; Notice regarding restrictions on movement of residents during...\"\n\nPlease note that this is subject to change and might not be up-to-date."
+    },
+    {
+        "role": "user",
+        "content": "Current time."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current time is:\n\n15 hours :35 minutes :03 seconds.\n\nDate: 15\nMonth: June\nYear: 2025"
+    },
+    {
+        "role": "user",
+        "content": "Give me current student notification from iit hyderabad."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current student notification from IIT Hyderabad is:\n\n\"The last date of application for M.Tech 2023 admissions is 23rd April 2023.\"\n\nPlease note that this information is subject to change and might not be up-to-date."
+    },
+    {
+        "role": "user",
+        "content": "Can you give me email of saima qureshi who is professional from nit srinagar?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't have access to personal contact information of individuals. I can only provide general information available on the internet."
+    },
+    {
+        "role": "user",
+        "content": "Who is the current prime minister of the united states of america?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, there is no Prime Minister of the United States of America. The head of the executive branch of the U.S. government is the President, and the current President is the 47th President, Donald Trump, since January 20, 2025."
+    },
+    {
+        "role": "user",
+        "content": "Current weather search."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current weather is:\n\n28\u00b0/16\u00b0. 41%. Sat 14 | Day. 28\u00b0. 41%. W 11 km/h. Scattered thunderstorms.\n\nPlease note that this information is subject to change and might not be up-to-date."
+    },
+    {
+        "role": "user",
+        "content": "Give me latest student notification of nit srinagar."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the latest student notification of NIT Srinagar is:\n\n\"Student Notifications 2023-24 ; B.Tech 5th & 7th Semester Student, 21-08-2023 ; Timetable for BTech 1st Semester - Autumn 2023, 18-08-2023 ; Attention BTech 3rd Semester Student...\"\n\nPlease note that this information is subject to change and might not be up-to-date."
+    },
+    {
+        "role": "user",
+        "content": "Who is neet topper 2025?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the NEET topper 2025 is Mahesh Kumar, who secured AIR 1."
+    },
+    {
+        "role": "user",
+        "content": "Chat with me."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm happy to chat with you. How's your day going so far?"
+    },
+    {
+        "role": "user",
+        "content": "My name is aakash maurya and my dav is 18 april 2002 and tell me when i will be pledged?"
+    },
+    {
+        "role": "assistant",
+        "content": "Namaste, Aakash Maurya ji!\n\nAccording to your birth details, your birth date is April 18, 2002, which makes you 23 years old as of 2025.\n\nAs for when you'll get pledged, I'm assuming you're asking about your marriage. Based on astrology, it's predicted that you might get married between the ages of 28 to 32. However, please note that this is just a prediction and not a definite answer."
+    },
+    {
+        "role": "user",
+        "content": "According to my dob tell me when i will get job?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aakash Maurya ji!\n\nBased on your birth date April 18, 2002, astrology predicts that you might get your first job between the ages of 24 to 26. However, please note that this is just a prediction and not a definite answer."
+    },
+    {
+        "role": "user",
+        "content": "Tum kitne language ko support karte ho jante ho."
+    },
+    {
+        "role": "assistant",
+        "content": "I support and understand multiple languages, but I'm most proficient in English and Hindi. I can also understand and respond in other languages like Gujarati, Marathi, and a few more. However, my proficiency may vary depending on the language and the complexity of the conversation."
+    },
+    {
+        "role": "user",
+        "content": "To hindi mein reply karna."
+    },
+    {
+        "role": "assistant",
+        "content": "\u092e\u0948\u0902 \u0915\u0908 \u092d\u093e\u0937\u093e\u0913\u0902 \u0915\u093e \u0938\u092e\u0930\u094d\u0925\u0928 \u0915\u0930\u0924\u093e \u0939\u0942\u0901, \u0932\u0947\u0915\u093f\u0928 \u092e\u0948\u0902 \u0938\u092c\u0938\u0947 \u0905\u0927\u093f\u0915 \u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940 \u0914\u0930 \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u092a\u094d\u0930\u0935\u0940\u0923 \u0939\u0942\u0901\u0964 \u092e\u0948\u0902 \u092e\u0930\u093e\u0920\u0940 \u0914\u0930 \u0915\u0941\u091b \u0905\u0928\u094d\u092f \u092d\u093e\u0937\u093e\u0913\u0902 \u092e\u0947\u0902 \u092d\u0940 \u0938\u092e\u091d \u0914\u0930 \u0909\u0924\u094d\u0924\u0930 \u0926\u0947 \u0938\u0915\u0924\u093e \u0939\u0942\u0901, \u0932\u0947\u0915\u093f\u0928 \u092e\u0947\u0930\u0940 \u0915\u0941\u0936\u0932\u0924\u093e \u092d\u093e\u0937\u093e \u0914\u0930 \u092c\u093e\u0924\u091a\u0940\u0924 \u0915\u0940 \u091c\u091f\u093f\u0932\u0924\u093e \u092a\u0930 \u0928\u093f\u0930\u094d\u092d\u0930 \u0915\u0930\u0924\u0940 \u0939\u0948\u0964"
+    },
+    {
+        "role": "user",
+        "content": "I want to send an email to shubham."
+    },
+    {
+        "role": "assistant",
+        "content": "To send an email to Shubham, I'll need more information. Please provide the following details:\n\n1. Shubham's email address\n2. The subject of the email\n3. The message you want to send to Shubham"
+    },
+    {
+        "role": "user",
+        "content": "I want to send an email to akash gujarati."
+    },
+    {
+        "role": "assistant",
+        "content": "To send an email to Akash Gujarati, I'll need more information. Please provide Akash Gujarati's email address."
+    },
+    {
+        "role": "user",
+        "content": "I want to send an email."
+    },
+    {
+        "role": "assistant",
+        "content": "To send an email, I'll need more information. Please provide the following details:\n\n1. Recipient's email address\n2. The subject of the email\n3. The message you want to send"
+    },
+    {
+        "role": "user",
+        "content": "Command de di to fir agar mujhe aapas mein baat karna reply."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're giving me a command to respond in a specific way."
+    },
+    {
+        "role": "user",
+        "content": "Yah mera normal hai jo ki main dikhane ke liye vah kiya tha."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're saying that this is your usual way of talking, and you were just pretending earlier."
+    }
+]
